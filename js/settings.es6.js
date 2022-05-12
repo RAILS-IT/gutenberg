@@ -19,6 +19,9 @@
       ogv: "video/ogg",
       "txt|asc|c|cc|h|srt": "text/plain",
       webp: "image/webp",
+      docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      pptx: "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      xlsx: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     },
     defaultEditorStyles: [
       {
