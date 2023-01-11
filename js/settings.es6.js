@@ -111,16 +111,35 @@
     ],
     maxUploadFileSize: 10485760,
     styles: [],
-    colors: [
-      {
-        name: "Dark Blue",
-        slug: "dark-blue",
-        color: "#0073aa",
-      },
-      { name: "Light Blue", slug: "light-blue", color: "#229fd8" },
-      { name: "Dark Gray", slug: "dark-gray", color: "#444" },
-      { name: "Light Gray", slug: "light-gray", color: "#eee" },
-    ],
+    colors: [{
+      name: "Navy", slug: "navy-blue", color: "#103168"
+    }, {
+      name: "Royal", slug: "royal-blue", color: "#2061cf"
+    }, {
+      name: "Sky", slug: "sky-blue", color: "#4da7ff"
+    }, {
+      name: "Mist", slug: "mist-blue", color: "#daecfd"
+    }, {
+      name: "Gold", slug: "gold-yellow", color: "#f3c731"
+    }, {
+      name: "Light Yellow", slug: "light-yellow", color: "#ffefb6"
+    }, {
+      name: "Canary", slug: "canary-yellow", color: "#fffdf1"
+    }, {
+      name:"Canary Gray", slug: "canary-gray", color: "#cccac1"
+    }, {
+      name: "Brick", slug: "brick-red", color: "#883418"
+    }, {
+      name: "Slate", slug: "slate-gray", color: "#4a5870"
+    }, {
+      name: "Gray", slug: "gray", color: "#b4bdce"
+    }, {
+      name: "Marble", slug: "marble-gray", color: "#dfe1e6"
+    }, {
+      name: "Black", slug: "black", color: "#000000"
+    }, {
+      name: "White", slug: "white", color: "#ffffff"
+    }],
     availableTemplates: [],
     disablePostFormats: true,
     titlePlaceholder: "Add title",
