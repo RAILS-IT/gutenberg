@@ -32,7 +32,7 @@
 		},
 		"showDownloadButton": {
 			"type": "boolean",
-			"default": true
+			"default": false
 		},
 		"downloadButtonText": {
 			"type": "string",
@@ -40,7 +40,8 @@
 			"selector": "a[download]"
 		},
 		"displayPreview": {
-			"type": "boolean"
+			"type": "boolean",
+			"default": false
 		},
 		"previewHeight": {
 			"type": "number",
