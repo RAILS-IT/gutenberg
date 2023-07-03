@@ -70,7 +70,7 @@ theme-support:
     name: Large
   - slug: full
     name: Full Size
-  maxUploadFileSize: 10485760
+  maxUploadFileSize: 104857600
   colors:
   - name: Dark Blue
     slug: dark-blue

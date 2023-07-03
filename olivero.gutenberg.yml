@@ -4,6 +4,7 @@ editor-style:
   css/base/base.css: {  }
   css/base/utility.css: {  }
 theme-support:
+  maxUploadFileSize: 104857600
   alignWide: true
   supportsLayout: false
   allowedBlockTypes: true

@@ -101,7 +101,7 @@
       slug: "full",
       name: "Full Size"
     }],
-    maxUploadFileSize: 10485760,
+    maxUploadFileSize: 104857600,
     styles: [],
     colors: [{
       name: "Navy", slug: "navy-blue", color: "#103168"
