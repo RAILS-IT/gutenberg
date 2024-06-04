@@ -28,6 +28,7 @@
       webp: "image/webp",
       docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       pptx: "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      potx: "application/vnd.openxmlformats-officedocument.presentationml.template",
       xlsx: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     },
     defaultEditorStyles: [{
